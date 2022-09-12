@@ -1,4 +1,4 @@
-
+import React, { Component }  from 'react';
 import List from './components/List';
 import Alert from './components/Alert';
 import './App.css';
