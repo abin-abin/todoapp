@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import List from './components/List';
 import Alert from './components/Alert';
 import './App.css';
